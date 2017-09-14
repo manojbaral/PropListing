@@ -1,3 +1,8 @@
+# Proplistings Description
+This is a simple project for Real Estate Listing CRUD app
+it use new version of angular cli and other components.
+It also use firebase and other third party library
+
 # Proplistings
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
@@ -22,6 +27,17 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 Before running the tests make sure you are serving the app via `ng serve`.
+
+## Dependencies Used
+
+FireBase 2 (https://github.com/angular/angularfire2/tree/master/docs).
+Before running the firebase.Make sure to go console.google.firebase.com and gave a authentication
+
+Flash Messages
+
+Bootstrap
+
+
 
 ## Further help
 
